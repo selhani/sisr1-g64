@@ -10,7 +10,7 @@ Le but de cette mission est de sécuriser le réseau en n'autorisant que les per
 ---
 
 ## Schéma du réseau et protocoles nécessaires
-![Schéma du réseau](images/Beaupeyrat.png)
+![Schéma protocole réseau](images/Beaupeyrat.png)
 
 ---
 ## Règles de pare-feu — `/etc/rc.local`
